@@ -3,7 +3,9 @@ Adapter board for [ebyte e07-900m10s CC1101 module](https://www.ebyte.com/en/pro
 
 ![pcb](pics/board.png)
 
-![assembled board](pics/3d.png)
+![render](pics/3d.png)
+
+![assembled board](pics/ramses_esp32s3zero.png)
 
 ![module](pics/module.png)
 
